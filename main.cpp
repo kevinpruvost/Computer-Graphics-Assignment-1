@@ -49,7 +49,7 @@ glm::vec3 color2 = glm::vec3(0.1f, 0.95f, 1.0f);
 glm::vec3 color3 = glm::vec3(0.5f, 0.2f, 0.3f);
 std::array<glm::vec3, 4> wireframeColors = { color, color1, color2, color3 };
 GLfloat rotationDegrees = 0.0f;
-GLuint displayMode = 0.0f;
+GLuint displayMode = 0;
 
 constexpr float ROTATE_SPEED = glm::radians(5.0f);
 constexpr float TRANSLATE_SPEED = 0.15f;
