@@ -22,6 +22,10 @@ Though, as CMake permits it, you will be easily able to compile on other platfor
 
 ## Demonstration
 
+### Release
+
+You can download the released and already compiled version [here](https://github.com/kevinpruvost/ComputerGraphics_Assignment1/releases).
+
 ### Content
 
 For my Assignment, I got all these points covered:
