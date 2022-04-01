@@ -1,0 +1,7 @@
+.vs
+out
+DO_NOT_UPLOAD
+*.zip
+*.mp4
+*.exe
+imgui.ini
