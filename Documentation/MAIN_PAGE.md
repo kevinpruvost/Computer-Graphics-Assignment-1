@@ -25,4 +25,8 @@ Author: Kevin Pruvost (pruvostkevin0@gmail.com)
 To test out the project quickly, there will be a release on Github
 with an executable file to launch directly.
 
-![Demo](recording.gif)
+\htmlonly
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/H9LDy9kiTIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+\endhtmlonly
