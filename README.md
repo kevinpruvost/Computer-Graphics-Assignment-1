@@ -44,9 +44,7 @@ For my Assignment, I got all these points covered:
 
 ### How to use it
 
-<p align="center">
-  <img src="https://github.com/kevinpruvost/ComputerGraphics_Assignment1/blob/main/docs/html/recording.gif" width=900/><br/><br/>
-</p>
+[![Demo](embed.png)](https://www.youtube.com/watch?v=H9LDy9kiTIQ&ab_channel=KevinPruvost)
 
 You can launch the `Assignment1.exe`directly, if you already have Visual C++ Redistribuable.
 
